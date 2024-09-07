@@ -1,8 +1,9 @@
-- Hello👋, my name is Dmitry Shander
+- Здравствуйте 👋, меня зовут Шандер Дмитрий
 
-- I'm a third-year student🎒 at the Altai State University branch🏫  
+- Я являюсь студентом 🎒 третьего курса филиала Алтайского Государственнного Университета (АлтГУ) в г. Бийске 🏫  
 
-- I'm studying in the field of «Information Systems and Programming»👨🏻‍💻  
+- Я учусь на направлении «Информационные системы и программирование» 🖥️ по профилю «Администратор баз данных» 👨🏻‍💻  
 
-- I'm learning the Cotlin and Java languages⌨️
+- Изучаю языки Java и Cotlin ⌨️
 
+- Ссылка на мой профиль в ВК: https://vk.com/dima_schan
